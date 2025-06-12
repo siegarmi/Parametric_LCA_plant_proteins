@@ -1,0 +1,150 @@
+﻿Products;Name;Type;Distribution;min;max;mean/mode;sd
+"Pea_protein_isolation; Pea_protein_concentration";Pea_dehulling_losses;Float;FIXED;NA;NA;0.0525;NA
+"Pea_protein_isolation; Pea_protein_concentration";Pea_dehulling_hulls;Float;UNIFORM;0.088;0.1765;NA;NA
+"Pea_protein_isolation; Pea_protein_concentration";Pea_cleaning_electricity;Float;UNIFORM;0.3;2;NA;NA
+"Pea_protein_isolation; Pea_protein_concentration";Pea_dehulling_electricity;Float;UNIFORM;8;16;NA;NA
+"Pea_protein_isolation; Pea_protein_concentration";Pea_dehulling_price_ratio;Float;UNIFORM;1.294;2.129;NA;NA
+"Soy_protein_isolation; Soy_protein_concentration";Soy_dehulling_hulls;Float;FIXED;NA;NA;0.08;NA
+"Soy_protein_isolation; Soy_protein_concentration";Soy_dehulling_electricity;Float;TRIANGLE;5;30;23.4;NA
+"Soy_protein_isolation; Soy_protein_concentration";Soy_dehulling_price_ratio;Float;FIXED;NA;NA;1;NA
+"Pea_protein_isolation; Pea_protein_concentration";Pea_milling_losses;Float;FIXED;NA;NA;0;NA
+"Pea_protein_isolation; Pea_protein_concentration";Pea_milling_electricity;Float;UNIFORM;25;226.8;NA;NA
+"Pea_protein_isolation; Pea_protein_concentration";Pea_milling_allocation;Float;FIXED;NA;NA;1;NA
+Wheat_protein_separation;Wheat_milling_side_streams;Float;TRIANGLE;0.25;0.363;0.338;NA
+Wheat_protein_separation;Wheat_milling_price_ratio;Float;UNIFORM;1.91;5.2;NA;NA
+Wheat_protein_separation;Wheat_milling_electricity;Float;TRIANGLE;180;544;400;NA
+Wheat_protein_separation;Wheat_milling_water;Float;TRIANGLE;0.06;0.13;0.094;NA
+Wheat_protein_separation;Wheat_milling_wastewater;Float;TRIANGLE;0.06;0.13;0.094;NA
+Wheat_protein_separation;Wheat_milling_waste;Float;UNIFORM;0.0065;0.0127;NA;NA
+"Soy_protein_isolation; Soy_protein_concentration";Soy_defatting_oil_production;Float;TRIANGLE;0.191;0.26;0.24;NA
+"Soy_protein_isolation; Soy_protein_concentration";Soy_defatting_price_ratio;Float;TRIANGLE;0.40;0.52;0.52;NA
+"Soy_protein_isolation; Soy_protein_concentration";Soy_defatting_wastewater;Float;TRIANGLE;0.102232985158818;0.334785766158315;0.314865235267245;NA
+"Soy_protein_isolation; Soy_protein_concentration";Soy_defatting_hexane;Float;TRIANGLE;0.00029;0.00363153638402734;0.001374100719424;NA
+"Soy_protein_isolation; Soy_protein_concentration";Soy_defatting_input;Float;TRIANGLE;1.21;1.29;1.27;NA
+"Soy_protein_isolation; Soy_protein_concentration";Soy_defatting_water;Float;TRIANGLE;0.004320920759037;0.616557734204793;0.314865235267245;NA
+"Soy_protein_isolation; Soy_protein_concentration";Soy_defatting_electricity;Float;TRIANGLE;52.272;236.968;142.983;NA
+"Soy_protein_isolation; Soy_protein_concentration";Soy_defatting_heat;Float;TRIANGLE;516.67;1397.53594882207;951.917963278118;NA
+Pea_protein_isolation;PPI_protein_out;Float;TRIANGLE;0.826;0.884;0.857;NA
+Pea_protein_isolation;PPI_protein_in;Float;TRIANGLE;0.194;0.261;0.2165;NA
+Pea_protein_isolation;PPI_protein_recovery;Float;UNIFORM;0.65;0.85;NA;NA
+Pea_protein_isolation;PPI_dm_output;Float;FIXED;NA;NA;0.95;NA
+Pea_protein_isolation;PPI_price_ratio;Float;UNIFORM;2.34;4.7;NA;NA
+Pea_protein_isolation;PPI_num_hydrocyclones;Float;FIXED;NA;NA;15;NA
+Pea_protein_isolation;PPI_temperature;Float;UNIFORM;38;41;NA;NA
+Pea_protein_isolation;PPI_starch_output;Float;FIXED;NA;NA;0.417;NA
+Pea_protein_isolation;PPI_fiber_output;Float;FIXED;NA;NA;0.0778;NA
+Pea_protein_isolation;PPI_whey_output;Float;FIXED;NA;NA;3.42;NA
+Pea_protein_isolation;PPI_water_input;Float;FIXED;NA;NA;4.78411914744934;NA
+Pea_protein_isolation;PPI_HCl_input;Float;FIXED;NA;NA;0.02916666666667;NA
+Pea_protein_isolation;PPI_NaOH_input;Float;FIXED;NA;NA;0.0125;NA
+Pea_protein_isolation;PPI_mass_flow_mixing;Float;FIXED;NA;NA;3.48;NA
+Pea_protein_isolation;PPI_mass_flow_hydrocyclone;Float;FIXED;NA;NA;5.14666666666667;NA
+Pea_protein_isolation;PPI_mass_flow_vacuum_drum_filter;Float;FIXED;NA;NA;0.83898305084746;NA
+Pea_protein_isolation;PPI_mass_flow_centrifugal_decanter_fiber;Float;FIXED;NA;NA;3.95383900607419;NA
+Pea_protein_isolation;PPI_mass_flow_centrifugal_decanter_whey;Float;FIXED;NA;NA;3.78292294361429;NA
+Pea_protein_isolation;PPI_mass_flow_ring_drier_starch;Float;FIXED;NA;NA;0.24315789473684;NA
+Pea_protein_isolation;PPI_mass_flow_ring_drier_fiber;Float;FIXED;NA;NA;0.272;NA
+Pea_protein_isolation;PPI_mass_flow_heating;Float;FIXED;NA;NA;3.80666666666667;NA
+Pea_protein_concentration;PPC_protein_in;Float;TRIANGLE;0.194;0.261;0.2165;NA
+Pea_protein_concentration;PPC_protein_out;Float;TRIANGLE;0.429;0.696;0.55;NA
+Pea_protein_concentration;PPC_protein_recovery;Float;TRIANGLE;0.29;0.76;0.48;NA
+Pea_protein_concentration;PPC_dm_output;Float;FIXED;NA;NA;0.95;NA
+Pea_protein_concentration;PPC_price_ratio;Float;TRIANGLE;2.92;3.23;3.23;NA
+Wheat_protein_separation;Wheat_gluten_protein_out;Float;UNIFORM;0.76;0.78;NA;NA
+Wheat_protein_separation;Wheat_gluten_protein_in;Float;TRIANGLE;0.0893;0.1344;0.1128;NA
+Wheat_protein_separation;Wheat_gluten_protein_recovery;Float;UNIFORM;0.8;0.85;NA;NA
+Wheat_protein_separation;Wheat_gluten_A_starch_recovery;Float;UNIFORM;0.58;0.62;NA;NA
+Wheat_protein_separation;Wheat_gluten_B_starch_recovery;Float;UNIFORM;0.2;0.22;NA;NA
+Wheat_protein_separation;Wheat_gluten_starch_content_flour;Float;UNIFORM;0.63;0.72;NA;NA
+Wheat_protein_separation;Wheat_gluten_dm_content_flour;Float;UNIFORM;0.855;0.895;NA;NA
+Wheat_protein_separation;Wheat_gluten_dm_content_gluten;Float;FIXED;NA;NA;0.95;NA
+Wheat_protein_separation;Wheat_gluten_dm_content_starch;Float;FIXED;NA;NA;0.86;NA
+Wheat_protein_separation;Wheat_gluten_A_starch_yield_tricanter;Float;FIXED;NA;NA;0.55;NA
+Wheat_protein_separation;Wheat_gluten_TS_starch_tricanter;Float;UNIFORM;0.52;0.55;NA;NA
+Wheat_protein_separation;Wheat_gluten_TS_protein_tricanter;Float;UNIFORM;0.2;0.28;NA;NA
+Wheat_protein_separation;Wheat_gluten_TS_pentosan_tricanter;Float;UNIFORM;0.07;0.1;NA;NA
+Wheat_protein_separation;Wheat_gluten_A_starch_in_B_fraction;Float;UNIFORM;0.03;0.07;NA;NA
+Wheat_protein_separation;Wheat_gluten_price_ratio_A_starch;Float;UNIFORM;2.33;2.94;NA;NA
+Wheat_protein_separation;Wheat_gluten_price_ratio_B_starch;Float;UNIFORM;3.00;8.60;NA;NA
+Wheat_protein_separation;Wheat_gluten_num_hydrocyclones;Float;UNIFORM;10;12;NA;NA
+Wheat_protein_separation;Wheat_gluten_temperature;Float;TRIANGLE;5;20;12;NA
+Wheat_protein_separation;Wheat_gluten_fiber;Float;FIXED;NA;NA;0.03;NA
+Wheat_protein_separation;Wheat_gluten_pentosans;Float;FIXED;NA;NA;0.178125324675325;NA
+Wheat_protein_separation;Wheat_gluten_water_input;Float;FIXED;NA;NA;2.5;NA
+Wheat_protein_separation;Wheat_gluten_wastewater;Float;FIXED;NA;NA;1.73047283086226;NA
+Wheat_protein_separation;Wheat_gluten_mass_flow_mixing;Float;FIXED;NA;NA;1.94;NA
+Wheat_protein_separation;Wheat_gluten_mass_flow_centrifugal_sieve_B_starch;Float;FIXED;NA;NA;0.18018701298701;NA
+Wheat_protein_separation;Wheat_gluten_mass_flow_hydrocyclones;Float;FIXED;NA;NA;2.06494316883117;NA
+Wheat_protein_separation;Wheat_gluten_mass_flow_heating;Float;FIXED;NA;NA;3.09828571726057;NA
+Wheat_protein_separation;Wheat_gluten_mass_flow_homogenisator;Float;FIXED;NA;NA;3.14606741573034;NA
+Wheat_protein_separation;Wheat_gluten_mass_flow_tricanter;Float;FIXED;NA;NA;3.73904992691038;NA
+Wheat_protein_separation;Wheat_gluten_density_centrifugal_sieve_B_starch;Float;FIXED;NA;NA;1.05074728142415;NA
+Wheat_protein_separation;Wheat_gluten_density_sedicanter;Float;FIXED;NA;NA;1.00425;NA
+Wheat_protein_separation;Wheat_gluten_density_centrifugal_sieve_A_starch;Float;FIXED;NA;NA;1.24075;NA
+Wheat_protein_separation;Wheat_gluten_density_nozzle_centrifuge_A_starch;Float;FIXED;NA;NA;1.07938281770409;NA
+Wheat_protein_separation;Wheat_gluten_density_nozzle_centrifuge_hydrocyclone;Float;FIXED;NA;NA;1.0045;NA
+Wheat_protein_separation;Wheat_gluten_density_nozzle_centrifuge_B_starch;Float;FIXED;NA;NA;1.04674552938268;NA
+Soy_protein_isolation;SPI_protein_out;Float;TRIANGLE;0.865;0.952;0.929;NA
+Soy_protein_isolation;SPI_protein_in;Float;TRIANGLE;0.51;0.625;0.59;NA
+Soy_protein_isolation;SPI_protein_recovery;Float;TRIANGLE;0.573;0.855;0.7535;NA
+Soy_protein_isolation;SPI_dm_input;Float;FIXED;NA;NA;0.88;NA
+Soy_protein_isolation;SPI_dm_output;Float;FIXED;NA;NA;0.95;NA
+Soy_protein_isolation;SPI_price_ratio_spent_flakes;Float;FIXED;NA;NA;23.4;NA
+Soy_protein_isolation;SPI_solvent_ratio;Float;TRIANGLE;10;20;10;NA
+Soy_protein_isolation;SPI_temperature;Float;TRIANGLE;28;61;33;NA
+Soy_protein_isolation;SPI_spent_flakes;Float;FIXED;NA;NA;0.274501577838499;NA
+Soy_protein_isolation;SPI_whey;Float;FIXED;NA;NA;0.57879302254975;NA
+Soy_protein_isolation;SPI_HCl_input;Float;FIXED;NA;NA;0.002916666666667;NA
+Soy_protein_isolation;SPI_NaOH_input;Float;FIXED;NA;NA;0.00125;NA
+Soy_protein_isolation;SPI_mass_flow_centrifuge;Float;FIXED;NA;NA;1.0625;NA
+Soy_protein_isolation;SPI_mass_flow_centrifuge_flakes;Float;FIXED;NA;NA;0.062386722236023;NA
+Soy_protein_isolation;SPI_mass_flow_centrifuge_whey;Float;FIXED;NA;NA;-0.777179970191272;NA
+Soy_protein_isolation;SPI_mass_flow_centrifuge_protein;Float;FIXED;NA;NA;2.24518703451101;NA
+Soy_protein_isolation;SPI_mass_flow_flash_drier;Float;FIXED;NA;NA;0.105577529937884;NA
+Soy_protein_isolation;SPI_heating;Float;FIXED;NA;NA;1.0625;NA
+Soy_protein_isolation;SPI_density_centrifuge;Float;FIXED;NA;NA;1.03783050847458;NA
+Soy_protein_isolation;SPI_density_centrifuge_flakes;Float;FIXED;NA;NA;1.03579661016949;NA
+Soy_protein_isolation;SPI_density_centrifuge_whey;Float;FIXED;NA;NA;1.0285339402448;NA
+Soy_protein_isolation;SPI_density_centrifuge_protein;Float;FIXED;NA;NA;1.02863704964859;NA
+Soy_protein_concentration;SPC_protein_out;Float;TRIANGLE;0.621052631578947;0.726315789473684;0.7;NA
+Soy_protein_concentration;SPC_protein_in;Float;TRIANGLE;0.51;0.625;0.59;NA
+Soy_protein_concentration;SPC_protein_recovery;Float;TRIANGLE;0.9;0.98;0.925;NA
+Soy_protein_concentration;SPC_dm_input;Float;FIXED;NA;NA;0.88;NA
+Soy_protein_concentration;SPC_dm_output;Float;FIXED;NA;NA;0.95;NA
+Soy_protein_concentration;SPC_price_ratio;Float;UNIFORM;22.57;24.19;NA;NA
+Soy_protein_concentration;SPC_energy_heating;Float;UNIFORM;0;110.01;NA;NA
+Soy_protein_concentration;SPC_ts_sieving;Float;TRIANGLE;0.44;0.50;0.48;NA
+Soy_protein_concentration;SPC_ts_pressing;Float;TRIANGLE;0.52;0.57;0.56;NA
+Soy_protein_concentration;SPC_output_molasses;Float;FIXED;NA;NA;0.394921875;NA
+Soy_protein_concentration;SPC_water_input;Float;FIXED;NA;NA;2.35501319504097;NA
+Soy_protein_concentration;SPC_ethanol_input;Float;FIXED;NA;NA;0.00385546875;NA
+Soy_protein_concentration;SPC_mass_flow_soaking;Float;FIXED;NA;NA;11;NA
+Soy_protein_concentration;SPC_mass_flow_extractor;Float;FIXED;NA;NA;11;NA
+Soy_protein_concentration;SPC_mass_flow_evaporator_ethanol;Float;FIXED;NA;NA;6.9384973834653;NA
+Soy_protein_concentration;SPC_mass_flow_evaporator_water;Float;FIXED;NA;NA;2.1153715236551;NA
+"Pea_protein_isolation; Wheat_protein_separation";Electricity_mixing;Float;UNIFORM;6.48;18.62;NA;NA
+"Pea_protein_isolation; Wheat_protein_separation";Electricity_hydrocyclone;Float;UNIFORM;1.4;2.2;NA;NA
+Pea_protein_isolation;Electricity_vacuum_drum_filter;Float;UNIFORM;74;124;NA;NA
+"Pea_protein_isolation; Wheat_protein_separation; Soy_protein_isolation";Electricity_centrifugal_decanter;Float;TRIANGLE;1.08;3.744;3.42;NA
+"Pea_protein_isolation; Soy_protein_isolation; Soy_protein_concentration";Electricity_pumping;Float;TRIANGLE;0.09;0.164;0.15;NA
+Wheat_protein_separation;Electricity_pumping_gluten;Float;UNIFORM;0.3;0.35;NA;NA
+"Pea_protein_isolation; Wheat_protein_separation";Heat_ring_drier;Float;TRIANGLE;3200;5400;3850;NA
+"Pea_protein_isolation; Soy_protein_isolation";Heat_spray_drier;Float;UNIFORM;3268;6333;NA;NA
+"Pea_protein_isolation; Soy_protein_isolation";dm_content_spray_drier;Float;TRIANGLE;0.12;0.2;0.16;NA
+Pea_protein_concentration;Electricity_classifier_mill;Float;UNIFORM;257;325;NA;NA
+Pea_protein_concentration;Electricity_air_classifier;Float;TRIANGLE;2.9;47.6;34;NA
+Wheat_protein_separation;Electricity_homogenisator;Float;UNIFORM;2.97;6.72;NA;NA
+Wheat_protein_separation;Electricity_centrifugal_sieve;Float;UNIFORM;0.27;0.612;NA;NA
+Wheat_protein_separation;Electricity_nozzle_centrifuge;Float;TRIANGLE;1.014;2.52;1.5925;NA
+"Wheat_protein_separation; Soy_protein_isolation";Heat_flash_drier;Float;TRIANGLE;3600;5040;3600;NA
+Soy_protein_concentration;Electricity_extractor;Float;FIXED;NA;NA;15.44;NA
+"Soy_protein_concentration; Soy_protein_isolation; Wheat_protein_separation";Electricity_pressing;Float;UNIFORM;0.39;1.89;NA;NA
+"Soy_protein_concentration; Wheat_protein_separation";Electricity_evaporation;Float;FIXED;NA;NA;2.11;NA
+Soy_protein_concentration;Electricity_desolventization;Float;FIXED;NA;NA;41.69;NA
+Soy_protein_concentration;Electricity_solvent_recovery;Float;FIXED;NA;NA;1.86;NA
+Soy_protein_concentration;Electricity_grinding;Float;TRIANGLE;180;544;400;NA
+Soy_protein_concentration;Heat_evaporation_ethanol;Float;UNIFORM;484.5928819;703.4221789;NA;NA
+"Soy_protein_concentration; Wheat_protein_separation";Heat_evaporation_water;Float;UNIFORM;908.2161617;1318.3425;NA;NA
+Soy_protein_concentration;Heat_desolventization;Float;UNIFORM;1915.920851;3056.410739;NA;NA
+Soy_protein_concentration;Heat_vacuum_drier;Float;UNIFORM;4680;5400;NA;NA
+Wheat_protein_separation;Electricity_pin_mill;Float;UNIFORM;124;273;NA;NA

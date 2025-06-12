@@ -1,0 +1,781 @@
+{
+    "fields": ["name"],
+    "data": [
+        [
+            ["Argon-40/kg"],
+            {
+                "name": "Argon"
+            }
+        ],
+        [
+            ["COD (Chemical Oxygen Demand)"],
+            {
+                "name": "COD, Chemical Oxygen Demand"
+            }
+        ],
+        [
+            ["BOD5 (Biological Oxygen Demand)"],
+            {
+                "name": "BOD5, Biological Oxygen Demand"
+            }
+        ],
+	    [
+	        ["COD (Chemical Oxygen Demand), NO"],
+            {
+                "name": "COD, Chemical Oxygen Demand"
+            }
+        ],
+        [
+            ["BOD5 (Biological Oxygen Demand), NO"],
+            {
+                "name": "BOD5, Biological Oxygen Demand"
+            }
+        ],
+        [
+            ["Transformation, to rivers, artificial"],
+            {
+                "name": "Transformation, to river, artificial"
+            }
+        ],
+        [
+            ["Transformation, to lakes, artificial"],
+            {
+                "name": "Transformation, to lake, artificial"
+            }
+        ],
+        [
+            ["Transformation, to grassland/pasture/meadow"],
+            {
+                "name": "Transformation, to grassland, natural, for livestock grazing"
+            }
+        ],
+        [
+            ["Transformation, to agriculture, mosaic"],
+            {
+                "name": "Transformation, to heterogeneous, agricultural"
+            }
+        ],
+        [
+            ["Transformation, from grassland/pasture/meadow"],
+            {
+                "name": "Transformation, from grassland, natural, for livestock grazing"
+            }
+        ],
+        [
+            ["Transformation, from grassland"],
+            {
+                "name": "Transformation, from grassland, natural, for livestock grazing"
+            }
+        ],
+        [
+            ["Occupation, lakes, artificial"],
+            {
+                "name": "Occupation, lake, artificial"
+            }
+        ],
+        [
+            ["Occupation, grassland/pasture/meadow"],
+            {
+                "name": "Occupation, grassland, natural, for livestock grazing"
+            }
+        ],
+        [
+            ["Coal, 26.4 MJ per kg"],
+            {
+                "name": "Coal, hard, unspecified, in ground"
+            }
+        ],
+        [
+            ["Coal, 29.3 MJ per kg"],
+            {
+                "name": "Coal, hard, unspecified, in ground"
+            }
+        ],
+        [
+            ["2,4-D, dimethylamine salt"],
+            {
+                "name": "Dimethylamine"
+            }
+        ],
+        [
+            ["Carbon dioxide"],
+            {
+                "name": "Carbon dioxide, from soil or biomass stock"
+            }
+        ],
+        [
+            ["Dioxin, 2,3,7,8 Tetrachlorodibenzo-p-"],
+            {
+                "name": "Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin"
+            }
+        ],
+        [
+            ["Gangue, bauxite"],
+            {
+                "name": "Gangue, bauxite, in ground"
+            }
+        ],
+        [
+            ["Kaolin ore"],
+            {
+                "name": "Kaolinite, 24% in crude ore, in ground"
+            }
+        ],
+        [
+            ["Calcium carbonate"],
+            {
+                "name": "Calcium, in ground"
+            }
+        ],
+        [
+            ["Calcium chloride"],
+            {
+                "name": "Calcium, in ground"
+            }
+        ],
+        [
+            ["Magnesium chloride"],
+            {
+                "name": "Magnesium, in ground"
+            }
+        ],
+        [
+            ["Sand, gravel and stone, extracted for use"],
+            {
+                "name": "Gravel, in ground"
+            }
+        ],
+        [
+            ["Discarded fish, demersal"],
+            {
+                "name": "Discarded fish, demersal, to ocean"
+            }
+        ],
+        [
+            ["Discarded fish, pelagic"],
+            {
+                "name": "Discarded fish, pelagic, to ocean"
+            }
+        ],
+        [
+            ["Tri-allate"],
+            {
+                "name": "Triallate"
+            }
+        ],
+        [
+            ["Metaldehyde (tetramer)"],
+            {
+                "name": "Metaldehyde"
+            }
+        ],
+        [
+            ["Chlorotoluron"],
+            {
+                "name": "Chlortoluron"
+            }
+        ],
+        [
+            ["Flurochloridone"],
+            {
+                "name": "Fluorochloridone"
+            }
+        ],
+        [
+            ["Phosphate, NO"],
+            {
+                "name": "Phosphate"
+            }
+        ],
+        [
+            ["1-Butene"],
+            {
+                "name": "Butene"
+            }
+        ],
+        [
+            ["2-Butene"],
+            {
+                "name": "Butene"
+            }
+        ],
+        [
+            ["Argon"],
+            {
+                "name": "Argon-40"
+            }
+        ],
+        [
+            ["Arsenic"],
+            {
+                "name": "Arsenic ion"
+            }
+        ],
+        [
+            ["Benzo(b,j,k)fluoranthene"],
+            {
+                "name": "Benzo(b)fluoranthene"
+            }
+        ],
+ 	    [
+            ["BTEX (Benzene, Toluene, Ethylbenzene, and Xylene), unspecified ratio"],
+            {
+                "name": "Benzene"
+            }
+        ],
+ 	    [
+            ["Carbon monoxide"],
+            {
+                "name": "Carbon monoxide, fossil"
+            }
+        ],
+ 	    [
+            ["Chromium III"],
+            {
+                "name": "Chromium"
+            }
+        ],
+ 	    [
+            ["Ethane, 1,1,2-trifluoro-, HFC-143"],
+            {
+                "name": "Ethane, 1,1,1-trifluoro-, HFC-143a"
+            }
+        ],
+ 	    [
+            ["p-Xylene"],
+            {
+                "name": "Xylene"
+            }
+        ],
+ 	    [
+            ["Phenols, unspecified"],
+            {
+                "name": "Phenol"
+            }
+        ],
+ 	    [
+            ["Radioactive species, unspecified"],
+            {
+                "name": "Radioactive species, other beta emitters"
+            }
+        ],
+ 	    [
+            ["Sulfur monoxide"],
+            {
+                "name": "Sulfur oxides"
+            }
+        ],
+ 	    [
+            ["Acids, unspecified"],
+            {
+                "name": "Acidity, unspecified"
+            }
+        ],
+ 	    [
+            ["Lead-210/kg"],
+            {
+                "name": "Lead-210"
+            }
+        ],
+ 	    [
+            ["Radium-226/kg"],
+            {
+                "name": "Radium-226"
+            }
+        ],
+ 	    [
+            ["Radium-228/kg"],
+            {
+                "name": "Radium-228"
+            }
+        ],
+ 	    [
+            ["Nitrate compounds"],
+            {
+                "name": "Nitrate"
+            }
+        ],
+ 	    [
+            ["Metolachlor, (S)"],
+            {
+                "name": "Metolachlor"
+            }
+        ],
+        [
+            ["Aluminium - new"],
+            {
+                "name": "Aluminium III"
+            }
+        ],
+        [
+            ["Antimony - new"],
+            {
+                "name": "Antimony ion"
+            }
+        ],
+        [
+            ["Arsenic V - new"],
+            {
+                "name": "Arsenic ion"
+            }
+        ],
+        [
+            ["Barium - new"],
+            {
+                "name": "Barium II"
+            }
+        ],
+        [
+            ["Beryllium - new"],
+            {
+                "name": "Beryllium II"
+            }
+        ],
+        [
+            ["Cadmium - new"],
+            {
+                "name": "Cadmium II"
+            }
+        ],
+        [
+            ["Cadmium, ion - new"],
+            {
+                "name": "Cadmium II"
+            }
+        ],
+        [
+            ["Calcium - new"],
+            {
+                "name": "Calcium II"
+            }
+        ],
+        [
+            ["Cesium-134 - new"],
+            {
+                "name": "Caesium-134"
+            }
+        ],
+        [
+            ["Chromium - new"],
+            {
+                "name": "Chromium III"
+            }
+        ],
+        [
+            ["Chromium, ion - new"],
+            {
+                "name": "Chromium III"
+            }
+        ],
+        [
+            ["Cobalt - new"],
+            {
+                "name": "Cobalt II"
+            }
+        ],
+        [
+            ["Copper - new"],
+            {
+                "name": "Copper ion"
+            }
+        ],
+        [
+            ["Iron - new"],
+            {
+                "name": "Iron ion"
+            }
+        ],
+        [
+            ["Lead - new"],
+            {
+                "name": "Lead II"
+            }
+        ],
+        [
+            ["lithium - new"],
+            {
+                "name": "Lithium I"
+            }
+        ],
+        [
+            ["Manganese - new"],
+            {
+                "name": "Manganese II"
+            }
+        ],
+        [
+            ["Mercury - new"],
+            {
+                "name": "Mercury II"
+            }
+        ],
+        [
+            ["Molybdenum - new"],
+            {
+                "name": "Molybdenum VI"
+            }
+        ],
+        [
+            ["Nickel - new"],
+            {
+                "name": "Nickel II"
+            }
+        ],
+        [
+            ["Nickel, ion - new"],
+            {
+                "name": "Nickel II"
+            }
+        ],
+        [
+            ["Rhodium - new"],
+            {
+                "name": "Rhodium III"
+            }
+        ],
+        [
+            ["Selenium - new"],
+            {
+                "name": "Selenium IV"
+            }
+        ],
+        [
+            ["Silver - new"],
+            {
+                "name": "Silver I"
+            }
+        ],
+        [
+            ["Sodium - new"],
+            {
+                "name": "Sodium I"
+            }
+        ],
+        [
+            ["Strontium - new"],
+            {
+                "name": "Strontium II"
+            }
+        ],
+        [
+            ["Thallium - new"],
+            {
+                "name": "Thallium I"
+            }
+        ],
+        [
+            ["Tin - new"],
+            {
+                "name": "Tin ion"
+            }
+        ],
+        [
+            ["Titanium - new"],
+            {
+                "name": "Titanium ion"
+            }
+        ],
+        [
+            ["Vanadium - new"],
+            {
+                "name": "Vanadium V"
+            }
+        ],
+        [
+            ["Zinc - new"],
+            {
+                "name": "Zinc II"
+            }
+        ],
+        [
+            ["Zinc, ion - new"],
+            {
+                "name": "Zinc II"
+            }
+        ],
+        [
+            ["Palladium - new"],
+            {
+                "name": "Palladium II"
+            }
+        ],
+        [
+            ["Chromium IV - new"],
+            {
+                "name": "Chromium VI"
+            }
+        ],
+        [
+            ["Calcium, ion - new"],
+            {
+                "name": "Calcium II"
+            }
+        ],
+        [
+            ["Sodium, ion - new"],
+            {
+                "name": "Sodium I"
+            }
+        ],
+        [
+            ["Aluminium, ion - new"],
+            {
+                "name": "Aluminium III"
+            }
+        ],
+        [
+            ["Ammonium, ion - new"],
+            {
+                "name": "Ammonium"
+            }
+        ],
+        [
+            ["Silver, ion - new"],
+            {
+                "name": "Silver I"
+            }
+        ],
+        [
+            ["Cesium - new"],
+            {
+                "name": "Caesium I"
+            }
+        ],
+        [
+            ["Vanadium, ion - new"],
+            {
+                "name": "Vanadium V"
+            }
+        ],
+        [
+            ["Krypton, in air"],
+            {
+                "name": "Krypton"
+            }
+        ],
+        [
+            ["Xenon, in air"],
+            {
+                "name": "Xenon"
+            }
+        ],
+        [
+            ["Fish, unspecified, in sea"],
+            {
+                "name": "Fish, pelagic, in ocean"
+            }
+        ],
+        [
+            ["Coal, hard, unspecified"],
+            {
+                "name": "Coal, hard"
+            }
+        ],
+        [
+            ["Fish, unspecified, in sea"],
+            {
+                "name": "Fish, pelagic, in ocean"
+            }
+        ],
+        [
+            ["Sodium sulphate, various forms"],
+            {
+                "name": "Sodium sulfate"
+            }
+        ],
+        [
+            ["Cesium-137"],
+            {
+                "name": "Caesium-137"
+            }
+        ],
+        [
+            ["Cesium-136"],
+            {
+                "name": "Caesium-136"
+            }
+        ],
+        [
+            ["1,4-dichlorobenzene"],
+            {
+                "name": "o-dichlorobenzene"
+            }
+        ],
+        [
+            ["Hydrogen-3, Tritium"],
+            {
+                "name": "Tritium"
+            }
+        ],
+        [
+            ["Butyrolactone, beta-"],
+            {
+                "name": "Butyrolactone"
+            }
+        ],
+        [
+            ["Fossilmethane"],
+            {
+                "name": "Methane, fossil"
+            }
+        ],
+        [
+            ["Methyl amine"],
+            {
+                "name": "Methylamine"
+            }
+        ],
+        [
+            ["Gangue, bauxite"],
+            {
+                "name": "Gangue"
+            }
+        ],
+        [
+            ["Carbon, organic bound"],
+            {
+                "name": "Carbon, organic, in soil or biomass stock"
+            }
+        ],
+        [
+            ["Xylene"],
+            {
+                "name": "o-Xylene"
+            }
+        ],
+        [
+            ["Elemental carbon"],
+            {
+                "name": "Carbon"
+            }
+        ],
+        [
+            ["Thiocyanate, ion"],
+            {
+                "name": "Thiocyanate"
+            }
+        ],
+        [
+            ["Iprodion"],
+            {
+                "name": "Iprodione"
+            }
+        ],
+        [
+            ["Quizalofop ethyl ester"],
+            {
+                "name": "Quizalofop-p-ethyl"
+            }
+        ],
+        [
+            ["Prothioconazol"],
+            {
+                "name": "Prothioconazole"
+            }
+        ],
+        [
+            ["Pyraclostrobin (prop)"],
+            {
+                "name": "Pyraclostrobin"
+            }
+        ],
+        [
+            ["Cyhalothrin, gamma-"],
+            {
+                "name": "Cyhalothrin"
+            }
+        ],
+        [
+            ["Carfentrazone ethyl ester"],
+            {
+                "name": "Carfentrazone-ethyl"
+            }
+        ],
+        [
+            ["EDTA"],
+            {
+                "name": "Edta, sodium salt"
+            }
+        ],
+        [
+            ["Particulate Matter"],
+            {
+                "name": "Particulate Matter, > 10 um"
+            }
+        ],
+        [
+            ["Particulate Matter, < 10 um"],
+            {
+                "name": "Particulate Matter, > 2.5 um and < 10 um"
+            }
+        ],
+        [
+            ["1,2,3-trimethylbenzene"],
+            {
+                "name": "Trimethylbenzenes"
+            }
+        ],
+        [
+            ["1,3,5-trimethylbenzene"],
+            {
+                "name": "Trimethylbenzenes"
+            }
+        ],
+        [
+            ["1,2,4-trimethylbenzene"],
+            {
+                "name": "Trimethylbenzenes"
+            }
+        ],
+        [
+            ["Particulates, > 2.5 um, and < 10um"],
+            {
+                "name": "Particulate Matter, > 2.5 um and < 10um"
+            }
+        ],
+        [
+            ["Copper, ion"],
+            {
+                "name": "Copper ion"
+            }
+        ],
+        [
+            ["Arsenic, ion"],
+            {
+                "name": "Arsenic ion"
+            }
+        ],
+        [
+            ["Titanium, ion"],
+            {
+                "name": "Titanium ion"
+            }
+        ],
+        [
+            ["Iron, ion"],
+            {
+                "name": "Iron ion"
+            }
+        ],
+        [
+            ["Tin, ion"],
+            {
+                "name": "Tin ion"
+            }
+        ],
+        [
+            ["Gallium"],
+            {
+                "name": "gallium"
+            }
+        ],
+        [
+            ["AOX, Adsorbable Organic Halogen as Cl"],
+            {
+                "name": "AOX, Adsorbable Organic Halogen"
+            }
+        ]
+        
+    ]
+    
+}

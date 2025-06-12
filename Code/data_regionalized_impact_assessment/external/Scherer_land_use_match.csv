@@ -1,0 +1,54 @@
+Land use type,Land use intensity,Occupation,Transformation from,Transformation to
+Cropland,Light,Occupation annual crop irrigated extensive,Transformation from annual crop irrigated extensive,Transformation to annual crop irrigated extensive
+Cropland,Intense,Occupation annual crop,Transformation from annual crop,Transformation to annual crop
+Cropland,Intense,Occupation annual crop intensive,Transformation from annual crop intensive,Transformation to annual crop intensive
+Cropland,Intense,Occupation annual crop irrigated,Transformation from annual crop irrigated,Transformation to annual crop irrigated
+Cropland,Intense,Occupation annual crop non-irrigated,Transformation from annual crop non-irrigated,Transformation to annual crop non-irrigated
+Cropland,Intense,Occupation annual crop irrigated intensive,Transformation from annual crop irrigated intensive,Transformation to annual crop irrigated intensive
+Cropland,Intense,Occupation annual crop non-irrigated intensive,Transformation from annual crop non-irrigated intensive,Transformation to annual crop non-irrigated intensive
+Cropland,Intense,Occupation annual crop flooded crop,Transformation from annual crop flooded crop,Transformation to annual crop flooded crop
+Cropland,Intense,Occupation arable land unspecified use,Transformation from arable land unspecified use,Transformation to arable land unspecified use
+Cropland,Light,Occupation permanent crop irrigated extensive,Transformation from permanent crop irrigated extensive,Transformation to permanent crop irrigated extensive
+Cropland,Light,Occupation permanent crop extensive,Transformation from permanent crop extensive,Transformation to permanent crop extensive
+Cropland,Minimal,Occupation permanent crop minimal,Transformation from permanent crop minimal,Transformation to permanent crop minimal
+Cropland,Light,Occupation annual crop extensive,Transformation from annual crop extensive,Transformation to annual crop extensive
+Cropland,Minimal,Occupation annual crop minimal,Transformation from annual crop minimal,Transformation to annual crop minimal
+Cropland,Intense,Occupation permanent crop,Transformation from permanent crop,Transformation to permanent crop
+Cropland,Intense,Occupation permanent crop non-irrigated,Transformation from permanent crop non-irrigated,Transformation to permanent crop irrigated
+Cropland,Intense,Occupation permanent crop irrigated,Transformation from permanent crop irrigated,Transformation to permanent crop non-irrigated
+Cropland,Intense,Occupation permanent crop non-irrigated intensive,Transformation from permanent crop non-irrigated intensive,Transformation to permanent crop non-irrigated intensive
+Cropland,Intense,Occupation permanent crop irrigated intensive,Transformation from permanent crop irrigated intensive,Transformation to permanent crop irrigated intensive
+Cropland,Light,Occupation annual crop non-irrigated extensive,Transformation from annual crop non-irrigated extensive,Transformation to annual crop non-irrigated extensive
+Cropland,Minimal,Occupation heterogeneous agricultural,Transformation from heterogeneous agricultural,Transformation to heterogeneous agricultural
+Cropland,Minimal,Occupation cropland fallow (non-use),Transformation from cropland fallow (non-use),Transformation to cropland fallow (non-use)
+Cropland,Light,Occupation permanent crop non-irrigated extensive,Transformation from permanent crop non-irrigated extensive,Transformation to permanent crop non-irrigated extensive
+Cropland,Minimal,Occupation field margin/hedgerow,Transformation from field margin/hedgerow,Transformation to field margin/hedgerow
+Managed_forest,Intense,Occupation forest intensive,Transformation from forest intensive,Transformation to forest intensive
+Managed_forest,Intense,Occupation forest unspecified,Transformation from forest unspecified,Transformation to forest unspecified
+Managed_forest,Light,Occupation forest extensive,Transformation from forest extensive,Transformation to forest extensive
+Managed_forest,Light,Occupation forest secondary (non-use),Transformation from forest secondary (non-use),Transformation to forest secondary (non-use)
+Managed_forest,Minimal,Occupation shrub land sclerophyllous,Transformation from shrub land sclerophyllous,Transformation to shrub land sclerophyllous
+Managed_forest,Minimal,Occupation forest primary (non-use),Transformation from forest primary (non-use),Transformation to forest primary (non-use)
+Pasture,Light,Occupation pasture man made extensive,Transformation from pasture man made extensive,Transformation to pasture man made extensive
+Pasture,Intense,Occupation pasture man made intensive,Transformation from pasture man made intensive,Transformation to pasture man made intensive
+Pasture,Intense,Occupation pasture man made,Transformation from pasture man made,Transformation to pasture man made
+Pasture,Minimal,Occupation grassland natural for livestock grazing,Transformation from grassland natural for livestock grazing,Transformation to grassland natural for livestock grazing
+Pasture,Minimal,Occupation grassland natural (non-use),Transformation from grassland natural (non-use),Transformation to grassland natural (non-use)
+Pasture,Minimal,Occupation unspecified natural (non-use),Transformation from unspecified natural (non-use),Transformation to unspecified natural (non-use)
+Urban,Intense,Occupation industrial area,Transformation from industrial area,Transformation to industrial area
+Urban,Intense,Occupation mineral extraction site,Transformation from mineral extraction site,Transformation to mineral extraction site
+Urban,Intense,Occupation dump site,Transformation from dump site,Transformation to dump site
+Urban,Intense,,Transformation from dump site inert material landfill,Transformation to dump site inert material landfill
+Urban,Intense,,Transformation from dump site residual material landfill,Transformation to dump site residual material landfill
+Urban,Intense,,Transformation from dump site sanitary landfill,Transformation to dump site sanitary landfill
+Urban,Intense,,Transformation from dump site slag compartment,Transformation to dump site slag compartment
+Urban,Intense,Occupation construction site,,
+Urban,Intense,Occupation urban continuously built,Transformation from urban continuously built,Transformation to urban continuously built
+Urban,Intense,Occupation traffic area road network,Transformation from traffic area road network,Transformation to traffic area road network
+Urban,Intense,Occupation traffic area rail network,Transformation from traffic area rail network,Transformation to traffic area rail network
+Urban,Intense,Occupation unspecified,Transformation from unspecified,Transformation to unspecified
+Urban,Light,Occupation urban discontinuously built,Transformation from urban discontinuously built,Transformation to urban discontinuously built
+Urban,Light,Occupation traffic area rail/road embankment,Transformation from traffic area rail/road embankment,Transformation to traffic area rail/road embankment
+Urban,Light,Occupation urban/industrial fallow (non-use),Transformation from urban/industrial fallow (non-use),Transformation to urban/industrial fallow (non-use)
+Urban,Light,Occupation annual crop greenhouse,Transformation from annual crop greenhouse,Transformation to annual crop greenhouse
+Urban,Minimal,Occupation urban green area,Transformation from urban green area,Transformation to urban green area

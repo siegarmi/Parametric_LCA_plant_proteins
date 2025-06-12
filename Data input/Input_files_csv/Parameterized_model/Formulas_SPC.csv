@@ -1,0 +1,23 @@
+﻿Crop;Process;Flow;Formula;Unit
+Soy;crop;crop_allocation;This is a placeholder.;-
+Soy;dehulling;input_crop;"(params[""Soy_dehulling_hulls""]+1)";kg
+Soy;dehulling;electricity_mix;"params[""Soy_dehulling_electricity""]/3600";kWh
+Soy;dehulling;dehulling_allocation;"params[""Soy_dehulling_price_ratio""]";-
+Soy;defatting;Soy_dehulling;"params[""Soy_defatting_input""]*params[""Soy_dehulling_price_ratio""]";kg
+Soy;defatting;Soy_dehulling_no_allocation;"params[""Soy_defatting_input""]";kg
+Soy;defatting;tap_water;"params[""Soy_defatting_water""]";kg
+Soy;defatting;hexane;"params[""Soy_defatting_hexane""]";kg
+Soy;defatting;electricity_mix;"params[""Soy_defatting_electricity""]/3600";kWh
+Soy;defatting;heat_mix;"params[""Soy_defatting_heat""]/1000";MJ
+Soy;defatting;wastewater;"(-1)*params[""Soy_defatting_wastewater""]/1000";m3
+Soy;defatting;hexane_emissions;"params[""Soy_defatting_hexane""]";kg
+Soy;defatting;defatting_allocation;"1/(1/params[""Soy_defatting_price_ratio""]*params[""Soy_defatting_oil_production""]+1)";-
+Soy;protein_concentration;Soy_defatting;"params[""SPC_protein_out""]/params[""SPC_protein_recovery""]/params[""SPC_protein_in""]/(1/params[""Soy_defatting_price_ratio""]*params[""Soy_defatting_oil_production""]+1)";kg
+Soy;protein_concentration;Soy_defatting_no_allocation;"params[""SPC_protein_out""]/params[""SPC_protein_recovery""]/params[""SPC_protein_in""]";kg
+Soy;protein_concentration;electricity_mix;"(params[""SPC_protein_out""]/params[""SPC_protein_recovery""]/params[""SPC_protein_in""]*(params[""SPC_mass_flow_extractor""]*params[""Electricity_extractor""]+params[""SPC_mass_flow_evaporator_ethanol""]*params[""Electricity_evaporation""]+params[""SPC_mass_flow_evaporator_water""]*params[""Electricity_evaporation""])+params[""SPC_dm_output""]/params[""SPC_ts_sieving""]*params[""Electricity_pressing""]+(params[""SPC_dm_output""]/params[""SPC_ts_pressing""]-params[""SPC_dm_output""])*params[""Electricity_desolventization""]*0.6/0.8+((params[""SPC_dm_output""]/params[""SPC_ts_pressing""]-params[""SPC_dm_output""])*0.6/0.8+params[""SPC_protein_out""]/params[""SPC_protein_recovery""]/params[""SPC_protein_in""]*params[""SPC_mass_flow_evaporator_ethanol""])*params[""Electricity_solvent_recovery""]+params[""Electricity_grinding""])*(1+params[""Electricity_pumping""])/3600";kWh
+Soy;protein_concentration;heat_mix;"(params[""SPC_protein_out""]/params[""SPC_protein_recovery""]/params[""SPC_protein_in""]*(params[""SPC_mass_flow_evaporator_ethanol""]*params[""Heat_evaporation_ethanol""]+params[""SPC_mass_flow_evaporator_water""]*params[""Heat_evaporation_water""]+params[""SPC_energy_heating""]*params[""SPC_mass_flow_soaking""])+(params[""SPC_dm_output""]/params[""SPC_ts_pressing""]-params[""SPC_dm_output""])*params[""Heat_desolventization""]*0.6/0.8+(params[""SPC_dm_output""]/params[""SPC_ts_pressing""]-(params[""SPC_dm_output""]/params[""SPC_ts_pressing""]-params[""SPC_dm_output""])*0.6/0.8-1)*params[""Heat_vacuum_drier""])/1000";MJ
+Soy;protein_concentration;tap_water;"params[""SPC_water_input""]*params[""SPC_protein_out""]/params[""SPC_protein_recovery""]/params[""SPC_protein_in""]";kg
+Soy;protein_concentration;ethanol;"params[""SPC_ethanol_input""]*params[""SPC_protein_out""]/params[""SPC_protein_recovery""]/params[""SPC_protein_in""]";kg
+Soy;protein_concentration;protein_content_concentrate;"params[""SPC_protein_out""]";-
+Soy;protein_concentration;concentration_allocation;"1/(1/params[""SPC_price_ratio""]*params[""SPC_output_molasses""]*params[""SPC_protein_out""]/params[""SPC_protein_recovery""]/params[""SPC_protein_in""]+1)";-
+Soy;protein_concentration;concentration_allocation_protein_FU;"1/(1/params[""SPC_price_ratio""]*params[""SPC_output_molasses""]*params[""SPC_protein_out""]/params[""SPC_protein_recovery""]/params[""SPC_protein_in""]+1)/params[""SPC_protein_out""]";-

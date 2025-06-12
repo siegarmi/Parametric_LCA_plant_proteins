@@ -1,0 +1,25 @@
+﻿Crop;Process;Flow;Formula;Unit
+Soy;crop;crop_allocation;This is a placeholder.;-
+Soy;dehulling;input_crop;"(params[""Soy_dehulling_hulls""]+1)";kg
+Soy;dehulling;electricity_mix;"params[""Soy_dehulling_electricity""]/3600";kWh
+Soy;dehulling;dehulling_allocation;"params[""Soy_dehulling_price_ratio""]";-
+Soy;defatting;Soy_dehulling;"params[""Soy_defatting_input""]*params[""Soy_dehulling_price_ratio""]";kg
+Soy;defatting;Soy_dehulling_no_allocation;"params[""Soy_defatting_input""]";kg
+Soy;defatting;tap_water;"params[""Soy_defatting_water""]";kg
+Soy;defatting;hexane;"params[""Soy_defatting_hexane""]";kg
+Soy;defatting;electricity_mix;"params[""Soy_defatting_electricity""]/3600";kWh
+Soy;defatting;heat_mix;"params[""Soy_defatting_heat""]/1000";MJ
+Soy;defatting;wastewater;"(-1)*params[""Soy_defatting_wastewater""]/1000";m3
+Soy;defatting;hexane_emissions;"params[""Soy_defatting_hexane""]";kg
+Soy;defatting;defatting_allocation;"1/(1/params[""Soy_defatting_price_ratio""]*params[""Soy_defatting_oil_production""]+1)";-
+Soy;protein_isolation;Soy_defatting;"params[""SPI_dm_output""]*params[""SPI_protein_out""]/params[""SPI_protein_recovery""]/params[""SPI_protein_in""]/(1/params[""Soy_defatting_price_ratio""]*params[""Soy_defatting_oil_production""]+1)";kg
+Soy;protein_isolation;Soy_defatting_no_allocation;"params[""SPI_dm_output""]*params[""SPI_protein_out""]/params[""SPI_protein_recovery""]/params[""SPI_protein_in""]";kg
+Soy;protein_isolation;electricity_mix;"params[""SPI_dm_output""]*params[""SPI_protein_out""]/params[""SPI_protein_recovery""]/params[""SPI_protein_in""]*(((params[""SPI_mass_flow_centrifuge""]+params[""SPI_solvent_ratio""])/params[""SPI_density_centrifuge""]+params[""SPI_mass_flow_centrifuge_flakes""]*(params[""SPI_mass_flow_centrifuge""]+params[""SPI_solvent_ratio""])/params[""SPI_density_centrifuge_flakes""]+(params[""SPI_mass_flow_centrifuge_whey""]+params[""SPI_mass_flow_centrifuge""]+params[""SPI_solvent_ratio""])/params[""SPI_density_centrifuge_whey""]+(params[""SPI_mass_flow_centrifuge_protein""]+params[""SPI_mass_flow_centrifuge""]+params[""SPI_solvent_ratio""]-params[""SPI_whey""]*params[""SPI_solvent_ratio""])/params[""SPI_density_centrifuge_protein""])*params[""Electricity_centrifugal_decanter""]+params[""SPI_spent_flakes""]*0.9/0.2*params[""Electricity_pressing""])*(1+params[""Electricity_pumping""])/3600";kWh
+Soy;protein_isolation;heat_mix;"(params[""SPI_dm_output""]*params[""SPI_protein_out""]/params[""SPI_protein_recovery""]/params[""SPI_protein_in""]*((params[""SPI_heating""]+params[""SPI_solvent_ratio""])*params[""SPI_temperature""]*4.2+params[""SPI_mass_flow_flash_drier""]*params[""Heat_flash_drier""])+(params[""SPI_dm_output""]/params[""dm_content_spray_drier""]-1)*params[""Heat_spray_drier""])/1000";MJ
+Soy;protein_isolation;tap_water;"(params[""SPI_dm_output""]*params[""SPI_protein_out""]/params[""SPI_protein_recovery""]/params[""SPI_protein_in""]*(1-params[""SPI_dm_input""]+params[""SPI_solvent_ratio""]*params[""SPI_whey""]+params[""SPI_spent_flakes""]*0.1+params[""SPI_mass_flow_flash_drier""])+1-params[""SPI_dm_output""]+params[""SPI_dm_output""]/params[""dm_content_spray_drier""]-1)";kg
+Soy;protein_isolation;hydrochloric_acid;"params[""SPI_dm_output""]*params[""SPI_protein_out""]/params[""SPI_protein_recovery""]/params[""SPI_protein_in""]*params[""SPI_HCl_input""]*params[""SPI_solvent_ratio""]";kg
+Soy;protein_isolation;sodium_hydroxide;"params[""SPI_dm_output""]*params[""SPI_protein_out""]/params[""SPI_protein_recovery""]/params[""SPI_protein_in""]*params[""SPI_NaOH_input""]*params[""SPI_solvent_ratio""]";kg
+Soy;protein_isolation;wastewater;"(-1)*params[""SPI_dm_output""]*params[""SPI_protein_out""]/params[""SPI_protein_recovery""]/params[""SPI_protein_in""]*params[""SPI_whey""]*params[""SPI_solvent_ratio""]/1000";m3
+Soy;protein_isolation;protein_content_isolate;"params[""SPI_protein_out""]";-
+Soy;protein_isolation;isolation_allocation;"1/(1/params[""SPI_price_ratio_spent_flakes""]*params[""SPI_spent_flakes""]*params[""SPI_dm_output""]*params[""SPI_protein_out""]/params[""SPI_protein_recovery""]/params[""SPI_protein_in""]+1)";-
+Soy;protein_isolation;isolation_allocation_protein_FU;"1/(1/params[""SPI_price_ratio_spent_flakes""]*params[""SPI_spent_flakes""]*params[""SPI_dm_output""]*params[""SPI_protein_out""]/params[""SPI_protein_recovery""]/params[""SPI_protein_in""]+1)/params[""SPI_protein_out""]";-

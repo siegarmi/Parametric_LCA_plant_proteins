@@ -1,0 +1,594 @@
+name;shortname;IMAGE Region
+Andorra;AD;WEU
+United Arab Emirates;AE;ME
+Afghanistan;AF;RSAS
+Antigua and Barbuda;AG;RCAM
+Anguilla;AI;RCAM
+Akrotiri Sovereign Base Area;Akrotiri;WEU
+Albania;AL;CEU
+Armenia;AM;CEU
+Angola;AO;RSAF
+Antarctica;AQ;GLOBAL
+Argentina;AR;RSAM
+American Samoa;AS;OCE
+Asia without China;Asia without China;GLOBAL
+Austria;AT;WEU
+Australia;AU;OCE
+Australia__ Ashmore and Cartier Islands;AU-AC;OCE
+Australia__ Australian Capital Territory;AU-ACT;OCE
+Australia__ Indian Ocean Territories;AU-IOT;OCE
+Australia__ Jervis Bay Territory;AU-JBT;OCE
+Australia__ New South Wales;AU-NSW;OCE
+Australia__ Northern Territory;AU-NT;OCE
+Australia__ Queensland;AU-QLD;OCE
+Australia__ South Australia;AU-SA;OCE
+Australia__ including overseas territories;Australia__ including overseas territories;OCE
+Australia__ Tasmania;AU-TAS;OCE
+Australia__ Victoria;AU-VIC;OCE
+Australia__ Western Australia;AU-WA;OCE
+Aruba;AW;RSAM
+Aland;AX;WEU
+Azerbaijan;AZ;RUS
+Bosnia and Herzegovina;BA;CEU
+Bajo Nuevo Bank (Petrel Is.);Bajo Nuevo;RCAM
+Baltic System Operator;BALTSO;CEU
+Barbados;BB;RCAM
+Bangladesh;BD;RSAS
+Belgium;BE;WEU
+Burkina Faso;BF;WAF
+Bulgaria;BG;CEU
+Bahrain;BH;ME
+Burundi;BI;EAF
+Benin;BJ;WAF
+Saint Barthelemy;BL;RCAM
+Bermuda;BM;RCAM
+Brunei;BN;SEAS
+Bolivia;BO;RSAM
+Bonaire__ Saint Eustatius and Saba;BQ;RCAM
+Brazil;BR;BRA
+Brazil__ Acre;BR-AC;BRA
+Brazil__ Alagoas;BR-AL;BRA
+Brazil__ Amazonas;BR-AM;BRA
+Brazil__ Amapá;BR-AP;BRA
+Brazil__ Bahia;BR-BA;BRA
+Brazil__ Ceará;BR-CE;BRA
+Brazil__ Distrito Federal;BR-DF;BRA
+Brazil__ Espírito Santo;BR-ES;BRA
+Brazil__ Goiás;BR-GO;BRA
+Brazil__ Maranhão;BR-MA;BRA
+Brazil__ Minas Gerais;BR-MG;BRA
+Brazil__ Mid-western grid;BR-Mid-western grid;BRA
+Brazil__ Mato Grosso do Sul;BR-MS;BRA
+Brazil__ Mato Grosso;BR-MT;BRA
+Brazil__ North-eastern grid;BR-North-eastern grid;BRA
+Brazil__ Northern grid;BR-Northern grid;BRA
+Brazil__ Pará;BR-PA;BRA
+Brazil__ Paraíba;BR-PB;BRA
+Brazil__ Pernambuco;BR-PE;BRA
+Brazil__ Piauí;BR-PI;BRA
+Brazil__ Paraná;BR-PR;BRA
+Brazil__ Rio de Janeiro;BR-RJ;BRA
+Brazil__ Rio Grande do Norte;BR-RN;BRA
+Brazil__ Rondônia;BR-RO;BRA
+Brazil__ Roraima;BR-RR;BRA
+Brazil__ Rio Grande do Sul;BR-RS;BRA
+Brazil__ Santa Catarina;BR-SC;BRA
+Brazil__ Sergipe;BR-SE;BRA
+Brazil__ South-eastern grid;BR-South-eastern grid;BRA
+Brazil__ South-eastern and Mid-western grid;BR-South-eastern/Mid-western grid;BRA
+Brazil__ Southern grid;BR-Southern grid;BRA
+Brazil__ São Paulo;BR-SP;BRA
+Brazil__ Tocantins;BR-TO;BRA
+The Bahamas;BS;RCAM
+Bhutan;BT;RSAS
+Bouvet Island;BV;RSAF
+Botswana;BW;RSAF
+Belarus;BY;CEU
+Belize;BZ;RCAM
+Canada;CA;CAN
+Canada__ Alberta;CA-AB;CAN
+Canada__ British Columbia;CA-BC;CAN
+Canada__ Manitoba;CA-MB;CAN
+Canada without Alberta;Canada without Alberta;CAN
+Canada without Alberta and Quebec;Canada without Alberta and Quebec;CAN
+Canada without Quebec;Canada without Quebec;CAN
+Canary Islands;Canary Islands;WEU
+Canada__ New Brunswick;CA-NB;CAN
+Canada__ Newfoundland and Labrador;CA-NF;CAN
+Canada__ Nova Scotia;CA-NS;CAN
+Canada__ Northwest Territories;CA-NT;CAN
+Canada__ Nunavut;CA-NU;CAN
+Canada__ Ontario;CA-ON;CAN
+Canada__ Prince Edward Island;CA-PE;CAN
+Canada__ Québec;CA-QC;CAN
+Canada__ Saskatchewan;CA-SK;CAN
+Canada__ Yukon;CA-YK;CAN
+Cocos (Keeling) Islands;CC;OCE
+Congo__ Democratic Republic of the;CD;WAF
+Central Asia;Central Asia;STAN
+Central European Power Association;CENTREL;CEU
+Central African Republic;CF;WAF
+Congo;CG;WAF
+Switzerland;CH;WEU
+China without Inner Mongol;China w/o Inner Mongol;CHN
+Ivory Coast;CI;WAF
+Cook Islands;CK;OCE
+Chile;CL;RSAM
+Clipperton Island;Clipperton Island;RCAM
+Cameroon;CM;WAF
+China;CN;CHN
+China__ Anhui (??);CN-AH;CHN
+China__ Beijing (??);CN-BJ;CHN
+China__ Central Grid;CN-CCG;CHN
+China__ Chongqing (??);CN-CQ;CHN
+China__ China Southern Power Grid;CN-CSG;CHN
+China__ East Grid;CN-ECGC;CHN
+China__ Fujian (??);CN-FJ;CHN
+China__ Guangdong (??);CN-GD;CHN
+China__ Gansu (??);CN-GS;CHN
+China__ Guangxi (???????);CN-GX;CHN
+China__ Guizhou (??);CN-GZ;CHN
+China__ Hainan (??);CN-HA;CHN
+China__ Hebei (??);CN-HB;CHN
+China__ Henan (??);CN-HE;CHN
+China__ Heilongjiang (????);CN-HL;CHN
+China__ Hunan (??);CN-HN;CHN
+China__ Hubei (??);CN-HU;CHN
+China__ Jilin (??);CN-JL;CHN
+China__ Jiangsu (??);CN-JS;CHN
+China__ Jiangxi (??);CN-JX;CHN
+China__ Liaoning (??);CN-LN;CHN
+China__ North Grid;CN-NCGC;CHN
+China__ Northeast Grid;CN-NECG;CHN
+China__ Inner Mongol (??????);CN-NM;CHN
+China__ Northwest Grid;CN-NWG;CHN
+China__ Ningxia (???????);CN-NX;CHN
+China__ Qinghai (??);CN-QH;CHN
+China__ Shaanxi (??);CN-SA;CHN
+China__ Sichuan (??);CN-SC;CHN
+China__ Shandong (??);CN-SD;CHN
+China__ State Grid Corporation of China;CN-SGCC;CHN
+China__ Shanghai (??);CN-SH;CHN
+China__ Southwest Grid;CN-SWG;CHN
+China__ Shanxi (??);CN-SX;CHN
+China__ Tianjin (??);CN-TJ;CHN
+China__ Xinjiang (????????);CN-XJ;CHN
+China__ Xizang (?????);CN-XZ;CHN
+China__ Yunnan (??);CN-YN;CHN
+China__ Zhejiang (??);CN-ZJ;CHN
+Colombia;CO;RSAM
+Coral Sea Islands;Coral Sea Islands;OCE
+Costa Rica;CR;RCAM
+Crimea;Crimea;UKR
+Serbia and Montenegro;CS;CEU
+Cuba;CU;RCAM
+United States–Mexico–Canada Agreement;CUSMA/T-MEC/USMCA;GLOBAL
+Cape Verde;CV;WAF
+Curaçao;CW;RSAM
+Christmas Island;CX;INDO
+Cyprus;CY;CEU
+Cyprus No Mans Area;Cyprus No Mans Area;CEU
+Czechia;CZ;CEU
+Germany;DE;WEU
+Dhekelia Sovereign Base Area;Dhekelia Base;CEU
+Djibouti;DJ;EAF
+Denmark;DK;WEU
+Dominica;DM;RCAM
+Dominican Republic;DO;RCAM
+Algeria;DZ;NAF
+Ecuador;EC;RSAM
+Estonia;EE;CEU
+Egypt;EG;NAF
+Western Sahara;EH;NAF
+European Network of Transmission Systems Operators for Electricity;ENTSO-E;GLOBAL
+Eritrea;ER;EAF
+Spain;ES;WEU
+Ethiopia;ET;EAF
+Europe without Austria;Europe without Austria;GLOBAL
+Europe without NORDEL (NCPA);Europe without NORDEL (NCPA);GLOBAL
+Europe without Switzerland;Europe without Switzerland;GLOBAL
+Europe without Switzerland and Austria;Europe without Switzerland and Austria;GLOBAL
+Europe without Switzerland and France;Europe without Switzerland and France;GLOBAL
+Europe__ without Russia and Türkiye;Europe__ without Russia and Türkiye;GLOBAL
+Finland;FI;WEU
+Fiji;FJ;OCE
+Falkland Islands;FK;RSAM
+Micronesia__ Federated States of;FM;INDO
+Faroe Islands;FO;WEU
+France;FR;WEU
+France__ including overseas territories;France__ including overseas territories;GLOBAL
+Commonwealth of Independent States;FSU;GLOBAL
+Gabon;GA;WAF
+United Kingdom;GB;WEU
+Grenada;GD;RSAM
+Georgia;GE;RUS
+French Guiana;GF;RSAM
+Guernsey;GG;WEU
+Ghana;GH;WAF
+Gibraltar;GI;WEU
+Greenland;GL;GLOBAL
+Gambia;GM;WAF
+Guinea;GN;WAF
+Guadeloupe;GP;RCAM
+Equatorial Guinea;GQ;WAF
+Greece;GR;WEU
+South Georgia and South Sandwich Islands;GS;RSAM
+Guatemala;GT;RCAM
+Guam;GU;SEAS
+US Naval Base Guantanamo Bay;Guantanamo Bay;RCAM
+Guinea Bissau;GW;WAF
+Guyana;GY;RSAM
+Hong Kong S.A.R.;HK;CHN
+Heard Island and McDonald Islands;HM;RSAF
+Honduras;HN;RCAM
+Croatia;HR;CEU
+Haiti;HT;RCAM
+Hungary;HU;CEU
+IAI Area__ Africa;IAI Area__ Africa;GLOBAL
+IAI Area__ Asia__ without China and GCC;IAI Area__ Asia__ without China and GCC;GLOBAL
+IAI Area__ EU27 & EFTA;IAI Area__ EU27 & EFTA;GLOBAL
+IAI Area__ Gulf Cooperation Council;IAI Area__ Gulf Cooperation Council;GLOBAL
+IAI Area__ North America;IAI Area__ North America;GLOBAL
+IAI Area__ North America__ without Quebec;IAI Area__ North America__ without Quebec;GLOBAL
+IAI Area__ Russia & Europe outside EU27 & EFTA;IAI Area__ Russia & RER w/o EU27 & EFTA;GLOBAL
+IAI Area__ South America;IAI Area__ South America;GLOBAL
+Indonesia;ID;INDO
+Ireland;IE;WEU
+Israel;IL;ME
+Isle of Man;IM;WEU
+India;IN;INDIA
+India__ Andaman and Nicobar;IN-AN;INDIA
+India__ Andhra Pradesh;IN-AP;INDIA
+India__ Arunachal Pradesh;IN-AR;INDIA
+India__ Assam;IN-AS;INDIA
+India__ Bihar;IN-BR;INDIA
+India__ Chandigarh;IN-CH;INDIA
+India__ Chhattisgarh;IN-CT;INDIA
+India__ Dadra and Nagar Haveli and Daman and Diu;IN-DH;INDIA
+India__ Delhi;IN-DL;INDIA
+India__ Dadra and Nagar Haveli;IN-DN;INDIA
+India__ Eastern grid;IN-Eastern grid;INDIA
+India__ Goa;IN-GA;INDIA
+India__ Gujarat;IN-GJ;INDIA
+India__ Himachal Pradesh;IN-HP;INDIA
+India__ Haryana;IN-HR;INDIA
+India__ Islands;IN-Islands;INDIA
+India__ Jharkhand;IN-JH;INDIA
+India__ Jammu and Kashmir;IN-JK;INDIA
+India__ Karnataka;IN-KA;INDIA
+India__ Kerala;IN-KL;INDIA
+India__ Ladakh;IN-LA;INDIA
+India__ Lakshadweep;IN-LD;INDIA
+India__ Maharashtra;IN-MH;INDIA
+India__ Meghalaya;IN-ML;INDIA
+India__ Manipur;IN-MN;INDIA
+India__ Madhya Pradesh;IN-MP;INDIA
+India__ Mizoram;IN-MZ;INDIA
+India__ Nagaland;IN-NL;INDIA
+India__ North-eastern grid;IN-North-eastern grid;INDIA
+India__ Northern grid;IN-Northern grid;INDIA
+India__ Odisha;IN-OR;INDIA
+India__ Punjab;IN-PB;INDIA
+India__ Puducherry;IN-PY;INDIA
+India__ Rajasthan;IN-RJ;INDIA
+India__ Sikkim;IN-SK;INDIA
+India__ Southern grid;IN-Southern grid;INDIA
+India__ Telangana;IN-TG;INDIA
+India__ Tamil Nadu;IN-TN;INDIA
+India__ Tripura;IN-TR;INDIA
+India__ Uttar Pradesh;IN-UP;INDIA
+India__ Uttarakhand;IN-UT;INDIA
+India__ West Bengal;IN-WB;INDIA
+India__ Western grid;IN-Western grid;INDIA
+British Indian Ocean Territory;IO;INDIA
+Iraq;IQ;ME
+Iran;IR;ME
+Iceland;IS;WEU
+Italy;IT;WEU
+Jersey;JE;WEU
+Jamaica;JM;RCAM
+Jordan;JO;ME
+Japan;JP;JAP
+Kenya;KE;EAF
+Kyrgyzstan;KG;STAN
+Cambodia;KH;SEAS
+Kiribati;KI;OCE
+Comoros;KM;EAF
+Saint Kitts and Nevis;KN;RCAM
+North Korea;KP;KOR
+South Korea;KR;KOR
+Kuwait;KW;ME
+Cayman Islands;KY;RCAM
+Kazakhstan;KZ;STAN
+Laos;LA;SEAS
+Lebanon;LB;ME
+Saint Lucia;LC;RSAM
+Liechtenstein;LI;WEU
+Sri Lanka;LK;RSAS
+Liberia;LR;WAF
+Lesotho;LS;RSAF
+Lithuania;LT;CEU
+Luxembourg;LU;WEU
+Latvia;LV;CEU
+Libya;LY;NAF
+Morocco;MA;NAF
+Monaco;MC;WEU
+Moldova;MD;UKR
+Montenegro;ME;CEU
+Saint Martin;MF;RCAM
+Madagascar;MG;EAF
+Marshall Islands;MH;INDO
+North Macedonia;MK;CEU
+Mali;ML;WAF
+Myanmar;MM;SEAS
+Mongolia;MN;CHN
+Macao S.A.R.;MO;CHN
+Northern Mariana Islands;MP;SEAS
+Martinique;MQ;RCAM
+Mauritania;MR;WAF
+Midwest Reliability Organization;MRO;GLOBAL
+Montserrat;MS;RCAM
+Malta;MT;WEU
+Mauritius;MU;EAF
+Maldives;MV;INDIA
+Malawi;MW;RSAF
+Mexico;MX;MEX
+Malaysia;MY;SEAS
+Mozambique;MZ;RSAF
+Namibia;NA;RSAF
+North American Free Trade Agreement;NAFTA;GLOBAL
+New Caledonia;NC;OCE
+Niger;NE;WAF
+Norfolk Island;NF;OCE
+Nigeria;NG;WAF
+Nicaragua;NI;RCAM
+Netherlands;NL;WEU
+Norway;NO;WEU
+Nordic Countries Power Association;NORDEL;GLOBAL
+North America without Quebec;North America without Quebec;GLOBAL
+Northern Cyprus;Northern Cyprus;CEU
+Nepal;NP;RSAS
+Northeast Power Coordinating Council;NPCC;GLOBAL
+Nauru;NR;INDO
+Niue;NU;OCE
+New Zealand;NZ;OCE
+Oman;OM;ME
+Panama;PA;RCAM
+Peru;PE;RSAM
+French Polynesia;PF;OCE
+Papua New Guinea;PG;INDO
+Philippines;PH;SEAS
+Pakistan;PK;STAN
+Poland;PL;CEU
+Saint Pierre and Miquelon;PM;CAN
+Pitcairn Islands;PN;OCE
+Puerto Rico;PR;RCAM
+Palestine;PS;ME
+Portugal;PT;WEU
+Palau;PW;INDO
+Paraguay;PY;RSAM
+Qatar;QA;ME
+Québec__ Hydro-Québec distribution network;Québec__ HQ distribution network;CAN
+Africa;RAF;GLOBAL
+Asia;RAS;GLOBAL
+Réunion;RE;EAF
+Europe;RER;GLOBAL
+Europe without Austria__ Belgium__ France__ Germany__ Italy__ Liechtenstein__ Monaco__ San Marino__ Switzerland__ and the Vatican;RER w/o AT+BE+CH+DE+FR+IT;GLOBAL
+Europe without Germany and Switzerland;RER w/o CH+DE;GLOBAL
+Europe without Germany__ the Netherlands__ and Norway;RER w/o DE+NL+NO;GLOBAL
+Europe without Germany__ the Netherlands__ Norway__ and Russia;RER w/o DE+NL+NO+RU;GLOBAL
+Europe without Germany__ the Netherlands__ and Russia;RER w/o DE+NL+RU;GLOBAL
+Europe without Russia;RER w/o RU;GLOBAL
+Latin America and the Caribbean;RLA;GLOBAL
+Middle East;RME;ME
+Northern America;RNA;GLOBAL
+Romania;RO;CEU
+Serbia;RS;CEU
+Russia;RU;RUS
+Russia (Asia);Russia (Asia);RUS
+Russia (Europe);Russia (Europe);RUS
+Rwanda;RW;EAF
+Saudi Arabia;SA;ME
+Southern Asia;SAS;GLOBAL
+Solomon Islands;SB;INDO
+Seychelles;SC;EAF
+Scarborough Reef;Scarborough Reef;SEAS
+Sudan;SD;EAF
+Sweden;SE;WEU
+Serranilla Bank;Serranilla Bank;RSAM
+Singapore;SG;SEAS
+Saint Helena;SH;WAF
+Slovenia;SI;CEU
+Siachen Glacier;Siachen Glacier;RSAS
+Svalbard and Jan Mayen;SJ;WEU
+Slovakia;SK;CEU
+Sierra Leone;SL;WAF
+San Marino;SM;WEU
+Senegal;SN;WAF
+Somalia;SO;EAF
+Somaliland;Somaliland;EAF
+Spratly Islands;Spratly Islands;SEAS
+Suriname;SR;RSAM
+South Sudan;SS;EAF
+Sao Tome and Principe;ST;WAF
+El Salvador;SV;RCAM
+Sint Maarten;SX;RCAM
+Syria;SY;ME
+Eswatini;SZ;RSAF
+Turks and Caicos Islands;TC;RCAM
+Chad;TD;WAF
+French Southern and Antarctic Lands;TF;RSAF
+Togo;TG;WAF
+Thailand;TH;SEAS
+Tajikistan;TJ;STAN
+Tokelau;TK;OCE
+East Timor;TL;INDO
+Turkmenistan;TM;STAN
+Tunisia;TN;NAF
+Tonga;TO;OCE
+Türkiye;TR;TUR
+Trinidad and Tobago;TT;RCAM
+Tuvalu;TV;INDO
+Taiwan;TW;CHN
+Tanzania;TZ;RSAF
+Ukraine;UA;UKR
+Union for the Co-ordination of Transmission of Electricity;UCTE;GLOBAL
+UCTE without France;UCTE without France;GLOBAL
+UCTE without Germany;UCTE without Germany;GLOBAL
+UCTE without Germany and France;UCTE without Germany and France;GLOBAL
+Uganda;UG;EAF
+United States Minor Outlying Islands;UM;USA
+Americas;UN-AMERICAS;GLOBAL
+Asia__ UN Region;UN-ASIA;GLOBAL
+Australia and New Zealand;UN-AUSTRALIANZ;OCE
+Central America;UN-CAMERICA;GLOBAL
+Caribbean;UN-CARIBBEAN;RCAM
+Eastern Africa;UN-EAFRICA;EAF
+Eastern Asia;UN-EASIA;GLOBAL
+Eastern Europe;UN-EEUROPE;CEU
+Europe__ UN Region;UN-EUROPE;GLOBAL
+United States of America__ including overseas territories;United States of America__ including overseas territories;USA
+Middle Africa;UN-MAFRICA;GLOBAL
+Melanesia;UN-MELANESIA;GLOBAL
+Micronesia;UN-MICRONESIA;GLOBAL
+Northern Africa;UN-NAFRICA;NAF
+Northern Europe;UN-NEUROPE;CEU
+Oceania;UN-OCEANIA;OCE
+Polynesia;UN-POLYNESIA;OCE
+South America;UN-SAMERICA;GLOBAL
+Southern Africa;UN-SASIA;GLOBAL
+South-Eastern Asia;UN-SEASIA;SEAS
+Southern Europe;UN-SEUROPE;CEU
+Western Africa;UN-WAFRICA;WAF
+Western Asia;UN-WASIA;STAN
+United States of America;US;USA
+United States of America__ Alaska;US-AK;USA
+United States of America__ Alabama;US-AL;USA
+United States of America__ Arkansas;US-AR;USA
+Alaska Systems Coordinating Council;US-ASCC;USA
+United States of America__ Arizona;US-AZ;USA
+United States of America__ California;US-CA;USA
+United States of America__ Colorado;US-CO;USA
+United States of America__ Connecticut;US-CT;USA
+United States of America__ District of Columbia;US-DC;USA
+United States of America__ Delaware;US-DE;USA
+United States of America__ Florida;US-FL;USA
+United States of America__ Georgia;US-GA;USA
+United States of America__ Hawaii;US-HI;USA
+HICC;US-HICC;USA
+United States of America__ Iowa;US-IA;USA
+United States of America__ Idaho;US-ID;USA
+United States of America__ Illinois;US-IL;USA
+United States of America__ Indiana;US-IN;USA
+United States of America__ Kansas;US-KS;USA
+United States of America__ Kentucky;US-KY;USA
+United States of America__ Louisiana;US-LA;USA
+United States of America__ Massachusetts;US-MA;USA
+United States of America__ Maryland;US-MD;USA
+United States of America__ Maine;US-ME;USA
+United States of America__ Michigan;US-MI;USA
+United States of America__ Minnesota;US-MN;USA
+United States of America__ Missouri;US-MO;USA
+Midwest Reliability Organization__ US part only;US-MRO;USA
+United States of America__ Mississippi;US-MS;USA
+United States of America__ Montana;US-MT;USA
+United States of America__ North Carolina;US-NC;USA
+United States of America__ North Dakota;US-ND;USA
+United States of America__ Nebraska;US-NE;USA
+United States of America__ New Hampshire;US-NH;USA
+United States of America__ New Jersey;US-NJ;USA
+United States of America__ New Mexico;US-NM;USA
+Northeast Power Coordinating Council__ US part only;US-NPCC;USA
+United States of America__ Nevada;US-NV;USA
+United States of America__ New York;US-NY;USA
+United States of America__ Ohio;US-OH;USA
+United States of America__ Oklahoma;US-OK;USA
+United States of America__ Oregon;US-OR;USA
+United States of America__ Pennsylvania;US-PA;USA
+ReliabilityFirst Corporation;US-RFC;USA
+United States of America__ Rhode Island;US-RI;USA
+United States of America__ South Carolina;US-SC;USA
+United States of America__ South Dakota;US-SD;USA
+SERC Reliability Corporation;US-SERC;USA
+United States of America__ Tennessee;US-TN;USA
+Texas Regional Entity;US-TRE;USA
+United States of America__ Texas;US-TX;USA
+United States of America__ Utah;US-UT;USA
+United States of America__ Virginia;US-VA;USA
+United States of America__ Vermont;US-VT;USA
+United States of America__ Washington;US-WA;USA
+Western Electricity Coordinating Council__ US part only;US-WECC;USA
+United States of America__ Wisconsin;US-WI;USA
+United States of America__ West Virginia;US-WV;USA
+United States of America__ Wyoming;US-WY;USA
+Uruguay;UY;RSAM
+Uzbekistan;UZ;STAN
+Vatican;VA;WEU
+Saint Vincent and the Grenadines;VC;RCAM
+Venezuela;VE;RSAM
+British Virgin Islands;VG;RCAM
+United States Virgin Islands;VI;RCAM
+Vietnam;VN;SEAS
+Vanuatu;VU;OCE
+Western Electricity Coordinating Council;WECC;GLOBAL
+Western Europe;WEU;WEU
+Wallis and Futuna;WF;OCE
+Samoa;WS;OCE
+Kosovo;XK;CEU
+Yemen;YE;ME
+Mayotte;YT;EAF
+South Africa;ZA;SAF
+Zambia;ZM;RSAF
+Zimbabwe;ZW;RSAF
+Global;GLO;GLOBAL
+Rest of the World;RoW;GLOBAL
+Rest of Europe;RoE;GLOBAL
+Oceania;OCE;OCE
+RER;RER;GLOBAL
+RME;RME;GLOBAL
+SAS;SAS;GLOBAL
+FSU;FSU;GLOBAL
+RAF;RAF;GLOBAL
+OCE;OCE;GLOBAL
+RNA;RNA;GLOBAL
+UN-EASIA;GLO;GLOBAL
+WEU;WEU;WEU
+ME;ME;ME
+RSAS;RSAS;RSAS
+RCAM;RCAM;RCAM
+CEU;CEU;CEU
+STAN;STAN;STAN
+RSAF;RSAF;RSAF
+RSAM;RSAM;RSAM
+WAF;WAF;WAF
+EAF;EAF;EAF
+SEAS;SEAS;SEAS
+BRA;BRA;BRA
+CAN;CAN;CAN
+CHN;CHN;CHN
+NAF;NAF;NAF
+INDO;INDO;INDO
+INDIA;INDIA;INDIA
+JAP;JAP;JAP
+KOR;KOR;KOR
+MEX;MEX;MEX
+USA;USA;USA
+RUS;RUS;RUS
+TUR;TUR;TUR
+UKR;UKR;UKR
+SAF;SAF;SAF
+NA;NA;GLOBAL
+US only;US only;USA
+OCEANIA;OCEANIA;OCE
+Europe, without Russia and TÃ¼rkiye;Europe, without Russia and TÃ¼rkiye;GLOBAL
+APAC;APAC;GLOBAL
+IN-DD;IN-DD;INDIA
+ENTSOE;ENTSOE;GLOBAL
+OECD+BRICS;OECD+BRICS;GLOBAL
+US-PR;US-PR;USA
+OECD+BRIC;OECD+BRIC;GLOBAL
+Europe-CH;Europe-CH;GLOBAL
+BRIC;BRIC;GLOBAL
+OECD;OECD;GLOBAL
+World;World;GLOBAL
+BRICS;BRICS;GLOBAL

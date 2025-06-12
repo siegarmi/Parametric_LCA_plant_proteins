@@ -1,0 +1,17 @@
+﻿Crop;Process;Flow;Formula;Unit
+Pea;crop;crop_allocation;This is a placeholder.;-
+Pea;dehulling;input_crop;"(1+params[""Pea_dehulling_hulls""])*(1+params[""Pea_dehulling_losses""])";kg
+Pea;dehulling;biowaste;"(-1)*params[""Pea_dehulling_losses""]";kg
+Pea;dehulling;electricity_mix;"params[""Pea_dehulling_electricity""]/3600";kWh
+Pea;dehulling;dehulling_allocation;"1/(1/params[""Pea_dehulling_price_ratio""]*params[""Pea_dehulling_hulls""]+1)";-
+Pea;milling;Pea_dehulling;"(1+params[""Pea_milling_losses""])/(1/params[""Pea_dehulling_price_ratio""]*params[""Pea_dehulling_hulls""]+1)";kg
+Pea;milling;Pea_dehulling_no_allocation;"(1+params[""Pea_milling_losses""])";kg
+Pea;milling;electricity_mix;"params[""Pea_milling_electricity""]/3600";kWh
+Pea;milling;biowaste;"(-1)*params[""Pea_milling_losses""]";kg
+Pea;milling;milling_allocation;"params[""Pea_milling_allocation""]";-
+Pea;protein_concentration;Pea_milling;"params[""PPC_dm_output""]*params[""PPC_protein_out""]/params[""PPC_protein_recovery""]/params[""PPC_protein_in""]*params[""Pea_milling_allocation""]";kg
+Pea;protein_concentration;Pea_milling_no_allocation;"params[""PPC_dm_output""]*params[""PPC_protein_out""]/params[""PPC_protein_recovery""]/params[""PPC_protein_in""]";kg
+Pea;protein_concentration;electricity_mix;"params[""PPC_dm_output""]*params[""PPC_protein_out""]/params[""PPC_protein_recovery""]/params[""PPC_protein_in""]*(params[""Electricity_classifier_mill""]+params[""Electricity_air_classifier""])/3600";kWh
+Pea;protein_concentration;protein_content_concentrate;"params[""PPC_protein_out""]";-
+Pea;protein_concentration;concentration_allocation;"1/(1/params[""PPC_price_ratio""]*(params[""PPC_dm_output""]*params[""PPC_protein_out""]/params[""PPC_protein_recovery""]/params[""PPC_protein_in""]-1)+1)";-
+Pea;protein_concentration;concentration_allocation_protein_FU;"1/(1/params[""PPC_price_ratio""]*(params[""PPC_dm_output""]*params[""PPC_protein_out""]/params[""PPC_protein_recovery""]/params[""PPC_protein_in""]-1)+1)/params[""PPC_protein_out""]";-

@@ -1,0 +1,20 @@
+﻿Product;Cultivation;Transport to dehulling;Dehulling;Transport to milling;Milling;Transport to defatting;Defatting;Transport to protein separation;Protein_separation;Transport to point_of_use;Point_of_use
+SPI;Brazil - BR;Yes;United Kingdom - GB;;;No;United Kingdom - GB;No;United Kingdom - GB;Yes;Switzerland - CH
+SPI;China - CN;No;China - CN;;;No;China - CN;No;China - CN;Yes;Switzerland - CH
+SPI;United States of America - US;Yes;Netherlands, Kingdom of the - NL;;;No;Netherlands, Kingdom of the - NL;No;Netherlands, Kingdom of the - NL;Yes;Switzerland - CH
+SPI;United States of America - US;No;United States of America - US;;;No;United States of America - US;No;United States of America - US;Yes;Switzerland - CH
+SPC;Brazil - BR;Yes;United Kingdom - GB;;;No;United Kingdom - GB;No;United Kingdom - GB;Yes;Switzerland - CH
+SPC;China - CN;No;China - CN;;;No;China - CN;No;China - CN;Yes;Switzerland - CH
+SPC;United States of America - US;Yes;Netherlands, Kingdom of the - NL;;;No;Netherlands, Kingdom of the - NL;No;Netherlands, Kingdom of the - NL;Yes;Switzerland - CH
+SPC;United States of America - US;No;United States of America - US;;;No;United States of America - US;No;United States of America - US;Yes;Switzerland - CH
+PPI;China - CN;No;China - CN;No;China - CN;;;No;China - CN;Yes;Switzerland - CH
+PPI;Germany - DE;Yes;Germany - DE;No;Germany - DE;;;No;Germany - DE;Yes;Switzerland - CH
+PPI;France - FR;Yes;France - FR;No;France - FR;;;No;France - FR;Yes;Switzerland - CH
+PPI;United Kingdom - GB;Yes;United Kingdom - GB;No;United Kingdom - GB;;;No;United Kingdom - GB;Yes;Switzerland - CH
+PPC;China - CN;No;China - CN;No;China - CN;;;No;China - CN;Yes;Switzerland - CH
+PPC;Germany - DE;Yes;Germany - DE;No;Germany - DE;;;No;Germany - DE;Yes;Switzerland - CH
+PPC;France - FR;Yes;France - FR;No;France - FR;;;No;France - FR;Yes;Switzerland - CH
+PPC;United Kingdom - GB;Yes;United Kingdom - GB;No;United Kingdom - GB;;;No;United Kingdom - GB;Yes;Switzerland - CH
+gluten;China - CN;;;No;China - CN;;;No;China - CN;Yes;Switzerland - CH
+gluten;Germany - DE;;;Yes;Germany - DE;;;No;Germany - DE;Yes;Switzerland - CH
+gluten;France - FR;;;Yes;Netherlands, Kingdom of the - NL;;;No;Netherlands, Kingdom of the - NL;Yes;Switzerland - CH

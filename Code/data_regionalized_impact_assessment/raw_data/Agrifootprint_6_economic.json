@@ -1,0 +1,305 @@
+{
+    "fields": ["name"],
+    "data": [
+        [
+            ["Argon-40/kg"],
+            {
+                "name": "Argon-40"
+            }
+        ],
+        [
+            ["COD (Chemical Oxygen Demand)"],
+            {
+                "name": "COD, Chemical Oxygen Demand"
+            }
+        ],
+        [
+            ["BOD5 (Biological Oxygen Demand)"],
+            {
+                "name": "BOD5, Biological Oxygen Demand"
+            }
+        ],
+	[
+	    ["COD (Chemical Oxygen Demand), NO"],
+            {
+                "name": "COD, Chemical Oxygen Demand"
+            }
+        ],
+        [
+            ["BOD5 (Biological Oxygen Demand), NO"],
+            {
+                "name": "BOD5, Biological Oxygen Demand"
+            }
+        ],
+        [
+            ["Transformation, to rivers, artificial"],
+            {
+                "name": "Transformation, to river, artificial"
+            }
+        ],
+        [
+            ["Transformation, to lakes, artificial"],
+            {
+                "name": "Transformation, to lake, artificial"
+            }
+        ],
+        [
+            ["Transformation, to grassland/pasture/meadow"],
+            {
+                "name": "Transformation, to grassland, natural, for livestock grazing"
+            }
+        ],
+        [
+            ["Transformation, to agriculture, mosaic"],
+            {
+                "name": "Transformation, to heterogeneous, agricultural"
+            }
+        ],
+        [
+            ["Transformation, from grassland/pasture/meadow"],
+            {
+                "name": "Transformation, from grassland, natural, for livestock grazing"
+            }
+        ],
+        [
+            ["Transformation, from grassland"],
+            {
+                "name": "Transformation, from grassland, natural, for livestock grazing"
+            }
+        ],
+        [
+            ["Occupation, lakes, artificial"],
+            {
+                "name": "Occupation, lake, artificial"
+            }
+        ],
+        [
+            ["Occupation, grassland/pasture/meadow"],
+            {
+                "name": "Occupation, grassland, natural, for livestock grazing"
+            }
+        ],
+        [
+            ["Coal, 26.4 MJ per kg"],
+            {
+                "name": "Coal, hard, unspecified, in ground"
+            }
+        ],
+        [
+            ["Coal, 29.3 MJ per kg"],
+            {
+                "name": "Coal, hard, unspecified, in ground"
+            }
+        ],
+        [
+            ["2,4-D, dimethylamine salt"],
+            {
+                "name": "Dimethylamine"
+            }
+        ],
+        [
+            ["Carbon dioxide"],
+            {
+                "name": "Carbon dioxide, from soil or biomass stock"
+            }
+        ],
+        [
+            ["Dioxin, 2,3,7,8 Tetrachlorodibenzo-p-"],
+            {
+                "name": "Dioxins, measured as 2,3,7,8-tetrachlorodibenzo-p-dioxin"
+            }
+        ],
+        [
+            ["Gangue, bauxite"],
+            {
+                "name": "Gangue, bauxite, in ground"
+            }
+        ],
+        [
+            ["Kaolin ore"],
+            {
+                "name": "Kaolinite, 24% in crude ore, in ground"
+            }
+        ],
+        [
+            ["Calcium carbonate"],
+            {
+                "name": "Calcium, in ground"
+            }
+        ],
+        [
+            ["Calcium chloride"],
+            {
+                "name": "Calcium, in ground"
+            }
+        ],
+        [
+            ["Magnesium chloride"],
+            {
+                "name": "Magnesium, in ground"
+            }
+        ],
+        [
+            ["Sand, gravel and stone, extracted for use"],
+            {
+                "name": "Gravel, in ground"
+            }
+        ],
+        [
+            ["Discarded fish, demersal"],
+            {
+                "name": "Discarded fish, demersal, to ocean"
+            }
+        ],
+        [
+            ["Discarded fish, pelagic"],
+            {
+                "name": "Discarded fish, pelagic, to ocean"
+            }
+        ],
+        [
+            ["Tri-allate"],
+            {
+                "name": "Triallate"
+            }
+        ],
+        [
+            ["Metaldehyde (tetramer)"],
+            {
+                "name": "Metaldehyde"
+            }
+        ],
+        [
+            ["Chlorotoluron"],
+            {
+                "name": "Chlortoluron"
+            }
+        ],
+        [
+            ["Flurochloridone"],
+            {
+                "name": "Fluorochloridone"
+            }
+        ],
+        [
+            ["Phosphate, NO"],
+            {
+                "name": "Phosphate"
+            }
+        ],
+        [
+            ["1-Butene"],
+            {
+                "name": "Butene"
+            }
+        ],
+        [
+            ["2-Butene"],
+            {
+                "name": "Butene"
+            }
+        ],
+        [
+            ["Argon"],
+            {
+                "name": "Argon-40"
+            }
+        ],
+        [
+            ["Arsenic"],
+            {
+                "name": "Arsenic V"
+            }
+        ],
+        [
+            ["Benzo(b,j,k)fluoranthene"],
+            {
+                "name": "Benzo(b)fluoranthene"
+            }
+        ],
+ 	[
+            ["BTEX (Benzene, Toluene, Ethylbenzene, and Xylene), unspecified ratio"],
+            {
+                "name": "Benzene"
+            }
+        ],
+ 	[
+            ["Carbon monoxide"],
+            {
+                "name": "Carbon monoxide, fossil"
+            }
+        ],
+ 	[
+            ["Chromium III"],
+            {
+                "name": "Chromium"
+            }
+        ],
+ 	[
+            ["Ethane, 1,1,2-trifluoro-, HFC-143"],
+            {
+                "name": "Ethane, 1,1,1-trifluoro-, HFC-143a"
+            }
+        ],
+ 	[
+            ["p-Xylene"],
+            {
+                "name": "Xylene"
+            }
+        ],
+ 	[
+            ["Phenols, unspecified"],
+            {
+                "name": "Phenol"
+            }
+        ],
+ 	[
+            ["Radioactive species, unspecified"],
+            {
+                "name": "Radioactive species, other beta emitters"
+            }
+        ],
+ 	[
+            ["Sulfur monoxide"],
+            {
+                "name": "Sulfur oxides"
+            }
+        ],
+ 	[
+            ["Acids, unspecified"],
+            {
+                "name": "Acidity, unspecified"
+            }
+        ],
+ 	[
+            ["Lead-210/kg"],
+            {
+                "name": "Lead-210"
+            }
+        ],
+ 	[
+            ["Radium-226/kg"],
+            {
+                "name": "Radium-226"
+            }
+        ],
+ 	[
+            ["Radium-228/kg"],
+            {
+                "name": "Radium-228"
+            }
+        ],
+ 	[
+            ["Nitrate compounds"],
+            {
+                "name": "Nitrate"
+            }
+        ],
+ 	[
+            ["Metolachlor, (S)"],
+            {
+                "name": "Metolachlor"
+            }
+        ]
+    ]
+}

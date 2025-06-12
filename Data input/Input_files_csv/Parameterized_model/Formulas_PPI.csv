@@ -1,0 +1,23 @@
+﻿Crop;Process;Flow;Formula;Unit
+Pea;crop;crop_allocation;This is a placeholder.;-
+Pea;dehulling;input_crop;"(1+params[""Pea_dehulling_hulls""])*(1+params[""Pea_dehulling_losses""])";kg
+Pea;dehulling;biowaste;"(-1)*params[""Pea_dehulling_losses""]";kg
+Pea;dehulling;electricity_mix;"params[""Pea_dehulling_electricity""]/3600";kWh
+Pea;dehulling;dehulling_allocation;"1/(1/params[""Pea_dehulling_price_ratio""]*params[""Pea_dehulling_hulls""]+1)";-
+Pea;milling;Pea_dehulling;"(1+params[""Pea_milling_losses""])/(1/params[""Pea_dehulling_price_ratio""]*params[""Pea_dehulling_hulls""]+1)";kg
+Pea;milling;Pea_dehulling_no_allocation;"(1+params[""Pea_milling_losses""])";kg
+Pea;milling;electricity_mix;"params[""Pea_milling_electricity""]/3600";kWh
+Pea;milling;biowaste;"(-1)*params[""Pea_milling_losses""]";kg
+Pea;milling;milling_allocation;"params[""Pea_milling_allocation""]";-
+Pea;protein_isolation;Pea_milling;"params[""PPI_dm_output""]*params[""PPI_protein_out""]/params[""PPI_protein_recovery""]/params[""PPI_protein_in""]*params[""Pea_milling_allocation""]";kg
+Pea;protein_isolation;Pea_milling_no_allocation;"params[""PPI_dm_output""]*params[""PPI_protein_out""]/params[""PPI_protein_recovery""]/params[""PPI_protein_in""]";kg
+Pea;protein_isolation;tap_water;"params[""PPI_water_input""]*params[""PPI_dm_output""]*params[""PPI_protein_out""]/params[""PPI_protein_recovery""]/params[""PPI_protein_in""]";kg
+Pea;protein_isolation;electricity_mix;"params[""PPI_dm_output""]*params[""PPI_protein_out""]/params[""PPI_protein_recovery""]/params[""PPI_protein_in""]*(params[""PPI_mass_flow_mixing""]*params[""Electricity_mixing""]+params[""PPI_mass_flow_hydrocyclone""]*params[""Electricity_hydrocyclone""]*params[""PPI_num_hydrocyclones""]+params[""PPI_mass_flow_vacuum_drum_filter""]*params[""Electricity_vacuum_drum_filter""]+params[""PPI_mass_flow_centrifugal_decanter_fiber""]*params[""Electricity_centrifugal_decanter""]+params[""PPI_mass_flow_centrifugal_decanter_whey""]*params[""Electricity_centrifugal_decanter""])*(1+params[""Electricity_pumping""])/3600";kWh
+Pea;protein_isolation;heat_mix;"(params[""PPI_dm_output""]*params[""PPI_protein_out""]/params[""PPI_protein_recovery""]/params[""PPI_protein_in""]*(params[""PPI_mass_flow_ring_drier_starch""]*params[""Heat_ring_drier""]+params[""PPI_mass_flow_ring_drier_fiber""]*params[""Heat_ring_drier""]+params[""PPI_mass_flow_heating""]*params[""PPI_temperature""]*4.2)+(params[""PPI_dm_output""]/params[""dm_content_spray_drier""]-1)*params[""Heat_spray_drier""])/1000";MJ
+Pea;protein_isolation;hydrochloric_acid;"params[""PPI_HCl_input""]*params[""PPI_dm_output""]*params[""PPI_protein_out""]/params[""PPI_protein_recovery""]/params[""PPI_protein_in""]";kg
+Pea;protein_isolation;sodium_hydroxide;"params[""PPI_NaOH_input""]*params[""PPI_dm_output""]*params[""PPI_protein_out""]/params[""PPI_protein_recovery""]/params[""PPI_protein_in""]";kg
+Pea;protein_isolation;biowaste;0;kg
+Pea;protein_isolation;wastewater;"(-1)*params[""PPI_dm_output""]*params[""PPI_protein_out""]/params[""PPI_protein_recovery""]/params[""PPI_protein_in""]*params[""PPI_whey_output""]/1000";m3
+Pea;protein_isolation;protein_content_isolate;"params[""PPI_protein_out""]";-
+Pea;protein_isolation;isolation_allocation;"1/(1/params[""PPI_price_ratio""]*params[""PPI_starch_output""]*params[""PPI_dm_output""]*params[""PPI_protein_out""]/params[""PPI_protein_recovery""]/params[""PPI_protein_in""]+1)";-
+Pea;protein_isolation;isolation_allocation_protein_FU;"1/(1/params[""PPI_price_ratio""]*params[""PPI_starch_output""]*params[""PPI_dm_output""]*params[""PPI_protein_out""]/params[""PPI_protein_recovery""]/params[""PPI_protein_in""]+1)/params[""PPI_protein_out""]";-
