@@ -5,6 +5,7 @@ import pandas as pd
 
 def isNaN(num):
     return num != num
+    
 def isinEurope(country, reference):
     test = country in list(reference["Code"])
     return test
