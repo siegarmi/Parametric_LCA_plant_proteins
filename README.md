@@ -2,7 +2,7 @@
 
 This repository contains the model code and required input data files for parametric LCAs of plant protein value chains based on variable process parameters and geographical locations.
 
-This repository is currently only public for review purposes. Once the corresponding publication is published, the code will be made available with an MIT license.
+This repository is currently only public for review purposes. Once the corresponding publication is published, the code and related documents will be made available for public use with an MIT license.
 
 ## The model
 
